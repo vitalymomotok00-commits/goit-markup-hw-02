@@ -1,6 +1,5 @@
 .hero {
     background-color: #2e2f42;
-    padding: 188px 0;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)),
         url('../images/people-office.jpg');
@@ -9,6 +8,7 @@
     background-size: cover;
     max-width: 1440px;
     margin: 0 auto;
+    padding: 188px 0;
 }
 
 .hero-title {
@@ -16,8 +16,8 @@
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    color: #ffffff;
     text-align: center;
+    color: #ffffff;
     max-width: 496px;
     margin: 0 auto 48px auto;
 }
